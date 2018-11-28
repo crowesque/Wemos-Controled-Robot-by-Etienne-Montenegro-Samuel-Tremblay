@@ -1,0 +1,7 @@
+Control the robot
+JL	Robot_rotation	3	SLIDER	X Axis	0	1.0	0.15
+JR	Turret rotration	3	SLIDER	X Rotation	0	1.0	0.15
+LTRT	Acceleration brake	3	SLIDER	Z Axis	0	1.0	0.0
+A	Activate claws	1	BUTTON	Button 0	0	0.0	0.0
+B	Activate right claw	1	BUTTON	Button 1	0	0.0	0.0
+X	Activate left claw	1	BUTTON	Button 2	0	0.0	0.0

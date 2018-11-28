@@ -1,0 +1,6 @@
+Control robot
+JL	Robot Steering	3	SLIDER	X Axis	0	1.0	0.15
+A	Go foward	1	BUTTON	Button 0	0	0.0	0.0
+B	Go reverse	1	BUTTON	Button 1	0	0.0	0.0
+LB	Handbrake L	1	BUTTON	Button 4	0	0.0	0.0
+RB	Handbrake R	1	BUTTON	Button 5	0	0.0	0.0
